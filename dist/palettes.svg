@@ -1,0 +1,97 @@
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 442">
+      <style>
+        text {
+  font-family: sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+        text {
+          font-size: 6px;
+        }
+      </style>
+      <text y="7" x="3">Water Pink</text><rect width="48" height="10" y="10" x="0" fill="#fef6e4" />
+<rect width="48" height="10" y="10" x="50" fill="#8bd3dd" />
+<rect width="48" height="10" y="10" x="100" fill="#f582ae" />
+<rect width="48" height="10" y="10" x="150" fill="#f3d2c1" />
+<text y="33" x="3">Dark Fuzz</text><rect width="31.333333333333336" height="10" y="36" x="0" fill="#55423d" />
+<rect width="31.333333333333336" height="10" y="36" x="33.333333333333336" fill="#e78fb3" />
+<rect width="31.333333333333336" height="10" y="36" x="66.66666666666667" fill="#ffc0ad" />
+<rect width="31.333333333333336" height="10" y="36" x="100" fill="#9656a1" />
+<rect width="31.333333333333336" height="10" y="36" x="133.33333333333334" fill="#fff3ec" />
+<rect width="31.333333333333336" height="10" y="36" x="166.66666666666669" fill="#271c19" />
+<text y="59" x="3">Smell the Rock'n'Rose</text><rect width="38" height="10" y="62" x="0" fill="#faeee7" />
+<rect width="38" height="10" y="62" x="40" fill="#ff8ba7" />
+<rect width="38" height="10" y="62" x="80" fill="#ffc6c7" />
+<rect width="38" height="10" y="62" x="120" fill="#c3f0ca" />
+<rect width="38" height="10" y="62" x="160" fill="#fffffe" />
+<text y="85" x="3">White Waters</text><rect width="48" height="10" y="88" x="0" fill="#fffffe" />
+<rect width="48" height="10" y="88" x="50" fill="#ffd803" />
+<rect width="48" height="10" y="88" x="100" fill="#e3f6f5" />
+<rect width="48" height="10" y="88" x="150" fill="#bae8e8" />
+<text y="111" x="3">Flattered Sugar</text><rect width="38" height="10" y="114" x="0" fill="#0f0e17" />
+<rect width="38" height="10" y="114" x="40" fill="#ff8906" />
+<rect width="38" height="10" y="114" x="80" fill="#f25f4c" />
+<rect width="38" height="10" y="114" x="120" fill="#e53170" />
+<rect width="38" height="10" y="114" x="160" fill="#fffffe" />
+<text y="137" x="3">Frozen Evening</text><rect width="38" height="10" y="140" x="0" fill="#232946" />
+<rect width="38" height="10" y="140" x="40" fill="#eebbc3" />
+<rect width="38" height="10" y="140" x="80" fill="#fffffe" />
+<rect width="38" height="10" y="140" x="120" fill="#b8c1ec" />
+<rect width="38" height="10" y="140" x="160" fill="#d4d8f0" />
+<text y="163" x="3">Whisper White</text><rect width="38" height="10" y="166" x="0" fill="#f9f4ef" />
+<rect width="38" height="10" y="166" x="40" fill="#8c7851" />
+<rect width="38" height="10" y="166" x="80" fill="#eaddcf" />
+<rect width="38" height="10" y="166" x="120" fill="#f25042" />
+<rect width="38" height="10" y="166" x="160" fill="#fffffe" />
+<text y="189" x="3">Fizzy Whirlpool</text><rect width="38" height="10" y="192" x="0" fill="#004643" />
+<rect width="38" height="10" y="192" x="40" fill="#f9bc60" />
+<rect width="38" height="10" y="192" x="80" fill="#abd1c6" />
+<rect width="38" height="10" y="192" x="120" fill="#e16162" />
+<rect width="38" height="10" y="192" x="160" fill="#e8e4e6" />
+<text y="215" x="3">Paper White</text><rect width="48" height="10" y="218" x="0" fill="#eff0f3" />
+<rect width="48" height="10" y="218" x="50" fill="#ff8e3c" />
+<rect width="48" height="10" y="218" x="100" fill="#fffffe" />
+<rect width="48" height="10" y="218" x="150" fill="#d9376e" />
+<text y="241" x="3">Opal Teal</text><rect width="48" height="10" y="244" x="0" fill="#f8f5f2" />
+<rect width="48" height="10" y="244" x="50" fill="#078080" />
+<rect width="48" height="10" y="244" x="100" fill="#f45d48" />
+<rect width="48" height="10" y="244" x="150" fill="#fffffe" />
+<text y="267" x="3">Dreamy Candy Moon</text><rect width="38" height="10" y="270" x="0" fill="#fec7d7" />
+<rect width="38" height="10" y="270" x="40" fill="#d9d4e7" />
+<rect width="38" height="10" y="270" x="80" fill="#a786df" />
+<rect width="38" height="10" y="270" x="120" fill="#f9f8fc" />
+<rect width="38" height="10" y="270" x="160" fill="#fffffe" />
+<text y="293" x="3">Foggy Watermelonade</text><rect width="48" height="10" y="296" x="0" fill="#fffffe" />
+<rect width="48" height="10" y="296" x="50" fill="#6246ea" />
+<rect width="48" height="10" y="296" x="100" fill="#d1d1e9" />
+<rect width="48" height="10" y="296" x="150" fill="#e45858" />
+<text y="319" x="3">Corona Forest</text><rect width="38" height="10" y="322" x="0" fill="#f2f7f5" />
+<rect width="38" height="10" y="322" x="40" fill="#faae2b" />
+<rect width="38" height="10" y="322" x="80" fill="#ffa8ba" />
+<rect width="38" height="10" y="322" x="120" fill="#fa5246" />
+<rect width="38" height="10" y="322" x="160" fill="#00473e" />
+<text y="345" x="3">Candy Grape White</text><rect width="31.333333333333336" height="10" y="348" x="0" fill="#16161a" />
+<rect width="31.333333333333336" height="10" y="348" x="33.333333333333336" fill="#7f5af0" />
+<rect width="31.333333333333336" height="10" y="348" x="66.66666666666667" fill="#72757e" />
+<rect width="31.333333333333336" height="10" y="348" x="100" fill="#2cb67d" />
+<rect width="31.333333333333336" height="10" y="348" x="133.33333333333334" fill="#fffffe" />
+<rect width="31.333333333333336" height="10" y="348" x="166.66666666666669" fill="#242629" />
+<text y="371" x="3">White On Melon</text><rect width="38" height="10" y="374" x="0" fill="#fffffe" />
+<rect width="38" height="10" y="374" x="40" fill="#3da9fc" />
+<rect width="38" height="10" y="374" x="80" fill="#90b4ce" />
+<rect width="38" height="10" y="374" x="120" fill="#ef4565" />
+<rect width="38" height="10" y="374" x="160" fill="#d8eefe" />
+<text y="397" x="3">Ripe White</text><rect width="38" height="10" y="400" x="0" fill="#fffffe" />
+<rect width="38" height="10" y="400" x="40" fill="#00ebc7" />
+<rect width="38" height="10" y="400" x="80" fill="#ff5470" />
+<rect width="38" height="10" y="400" x="120" fill="#fde24f" />
+<rect width="38" height="10" y="400" x="160" fill="#f2f4f6" />
+<text y="423" x="3">White Goddess</text><rect width="31.333333333333336" height="10" y="426" x="0" fill="#fffffe" />
+<rect width="31.333333333333336" height="10" y="426" x="33.333333333333336" fill="#4fc4cf" />
+<rect width="31.333333333333336" height="10" y="426" x="66.66666666666667" fill="#994ff3" />
+<rect width="31.333333333333336" height="10" y="426" x="100" fill="#fbdd74" />
+<rect width="31.333333333333336" height="10" y="426" x="133.33333333333334" fill="#f2eef5" />
+<rect width="31.333333333333336" height="10" y="426" x="166.66666666666669" fill="#f6efef" />
+    </svg>
+  

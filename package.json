@@ -1,0 +1,37 @@
+{
+  "name": "happyhuescolors",
+  "version": "1.0.0",
+  "description": "color palettes from https://www.happyhues.co/",
+  "main": "dist/palettes.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node snatchColorsNode.js && palette-aldente ./palettes.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meodai/happyHuesColors.git"
+  },
+  "keywords": [
+    "color",
+    "colour",
+    "palettes",
+    "colors",
+    "palette",
+    "colours"
+  ],
+  "author": "meodai@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meodai/happyHuesColors/issues"
+  },
+  "homepage": "https://github.com/meodai/happyHuesColors#readme",
+  "devDependencies": {
+    "palette-aldente": "^1.11.1",
+    "puppeteer": "^19.4.1"
+  },
+  "exports": {
+    "import": "./dist/palettes.esm.js",
+    "require": "./dist/palettes.js"
+  }
+}
